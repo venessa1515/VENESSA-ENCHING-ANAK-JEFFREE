@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Misi Zoo Pintar - Permainan KV+KV",
+  "description": "Permainan interaktif bertemakan haiwan \u0027Misi Zoo Pintar\u0027 untuk kemahiran membaca dan membina perkataan KV+KV, direka khas untuk murid Pemulihan Khas Bahasa Melayu Tahun 1 dengan sokongan audio suara sebutan, maklum balas mesra dan sijil pencapaian.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
